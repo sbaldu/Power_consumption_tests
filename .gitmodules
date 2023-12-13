@@ -1,0 +1,3 @@
+[submodule "extern/heterogeneous-clue"]
+	path = extern/heterogeneous-clue
+	url = https://github.com/sbaldu/heterogeneous-clue.git
