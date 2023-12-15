@@ -1,3 +1,6 @@
 [submodule "extern/heterogeneous-clue"]
 	path = extern/heterogeneous-clue
 	url = https://github.com/sbaldu/heterogeneous-clue.git
+[submodule "extern/pixeltrack-standalone"]
+	path = extern/pixeltrack-standalone
+	url = https://github.com/sbaldu/pixeltrack-standalone.git
